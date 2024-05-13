@@ -54,8 +54,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "new-teams",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/git-study2",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -83,7 +83,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715601076057</updated>
-      <workItem from="1715601077133" duration="4555000" />
+      <workItem from="1715601077133" duration="5054000" />
     </task>
     <servers />
   </component>
